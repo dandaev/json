@@ -2,7 +2,7 @@
     {
       "Id": 0,
       "Bezeichnung der Stelle": "Full Stack Developer (w/m/d)",
-      "Logo": "https://github.com/dandaev/json/blob/logos/xthumb.pagespeed.ic.NR3TIE8L2B.webp",
+      "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/xthumb.pagespeed.ic.NR3TIE8L2B.webp",
       "Bundesland": [
         "Sachsen","Bayern"
       ],
@@ -20,7 +20,7 @@
     {
       "Id": 1,
       "Bezeichnung der Stelle": "Software Entwickler für Android Apps (m/w/d)",
-      "Logo": "https://github.com/dandaev/json/blob/logos/2peaches-fb-profil-180x180.png",
+      "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/2peaches-fb-profil-180x180.png",
       "Bundesland": [
         "Sachsen"
       ],
@@ -38,7 +38,7 @@
     {
       "Id": 2,
       "Bezeichnung der Stelle": "Muster (w/m/d)",
-      "Logo": "https://github.com/dandaev/json/blob/logos/muser.jpg",
+      "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/muser.jpg",
       "Bundesland": [
         "Sachsen","Bayern","Rheinland-Pfalz"
       ],
