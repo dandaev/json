@@ -1,5 +1,4 @@
-{
-  "jobs": [
+[
     {
       "Id": 0,
       "Bezeichnung der Stelle": "Full Stack Developer (w/m/d)",
@@ -55,4 +54,3 @@
       "Stelle aktiv bis (Publikationsende)": "Muster"
     }
   ]
-}
