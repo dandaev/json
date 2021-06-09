@@ -3,9 +3,7 @@
       "Id": 0,
       "Bezeichnung der Stelle": "Full Stack Developer (w/m/d)",
       "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/xthumb.pagespeed.ic.NR3TIE8L2B.webp",
-      "Bundesland": [
-        "Sachsen","Bayern"
-      ],
+      "Bundesland": "Bayern",
       "Ort": "04109",
       "Anschreiben zur Stelle": "Eingebunden in ein interdisziplinäres, technisch breit aufgestelltes Team arbeiten Sie vornehmlich für renommierte Medien-, Automotive- oder Banking-Kunden. Mit uns leben Sie eine DevOps-Kultur, entwickeln anspruchsvolle Software und können sich in puncto Codequalität, Tests und agilen Prozessen voll verwirklichen. Sie kommunizieren offen und intensiv mit dem Team und dem Kunden und können dabei täglich die Brücke zwischen Kundenbedürfnissen und der Technik schlagen.",
       "Abteilung": "IT & Telekommunikation,",
@@ -21,9 +19,7 @@
       "Id": 1,
       "Bezeichnung der Stelle": "Software Entwickler für Android Apps (m/w/d)",
       "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/2peaches-fb-profil-180x180.png",
-      "Bundesland": [
-        "Sachsen"
-      ],
+      "Bundesland": "Sachsen",
       "Ort": "08468 ",
       "Anschreiben zur Stelle": "Du kennst Android wie deine Westentasche? Mega! Dann bist du unser nächster Pfirsich!\n\nWas dich erwartet\n\nSpannende Projekte, die Millionen von Nutzern begeistern\nEntwicklung innovativer Apps für Android-Smartphones & -Tablets\nBeteiligung an Planung, Konzeption & Gestaltung\nAgile Softwareentwicklung & Test-Szenarien\nZusammenarbeit mit anderen Techniken und Plattformen, z.B. iOS, APIs, PHP\nVielfältige Aufgaben, neue Herausforderungen und frische Ideen\nWas wir von dir erwarten\n\nAbgeschlossene Ausbildung, Studium im Bereich der Informatik oder vergleichbare Qualifikationen\nErfahrung in der Entwicklung von nativen Android Apps mit Java / Kotlin\nKnowHow im Umgang mit Android Studio, Gradle, GIT & co.\nFähigkeit sich in vorhandenem Quellcode zurecht zu finden\nZuverlässigkeit, Genauigkeit und lösungsorientierte Arbeitsweise\nLernbereitschaft und Wissensdurst\nWas wir dir bieten\n\nSchneller und unkomplizierter Einstieg mit Lernfortschritt\nLockere Startup-Atmosphäre im jungen Team mit Du-Kultur\nHohe Flexibilität, Work-Life-Balance und 0-Überstunden-Mentalität\nKurze Entscheidungswege – Zusammenarbeit auf Augenhöhe\nModerne Entwicklungsumgebungen und neuste Technologien\nEin cooles Büro und die Möglichkeit auf remote Arbeit\nPersönliche Betreuung in der Einarbeitungsphase\nEine unbefristete Festanstellung oder als Werksstudent\nGute Karrierechancen für ambitionierte Mitarbeiter\nAttraktive und leistungsgerechte Bezahlung\nKaffeevollautomat mit Flatrate",
       "Abteilung": "IT",
@@ -39,14 +35,92 @@
       "Id": 2,
       "Bezeichnung der Stelle": "Muster (w/m/d)",
       "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/muser.jpg",
-      "Bundesland": [
-        "Sachsen","Bayern","Rheinland-Pfalz"
-      ],
+      "Bundesland": "Rheinland-Pfalz",
+      "Ort": "Muster",
+      "Anschreiben zur Stelle": "Muster",
+      "Abteilung": "Muster",
+      "Fachrichtung": "Muster",
+      "Straße": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam",
+      "Einsatzort": "Muster",
+      "Art der Stelle": "Muster",
+      "E-Mail": "Muster",
+      "Bewerberkontakt Firma": "Muster",
+      "Stelle aktiv bis (Publikationsende)": "Muster"
+    }
+    {
+      "Id": 3,
+      "Bezeichnung der Stelle": "Muster (w/m/d)",
+      "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/muser.jpg",
+      "Bundesland": "Brandenburg",
       "Ort": "Muster",
       "Anschreiben zur Stelle": "Muster",
       "Abteilung": "Muster",
       "Fachrichtung": "Muster",
       "Straße": "Muster",
+      "Einsatzort": "Muster",
+      "Art der Stelle": "Muster",
+      "E-Mail": "Muster",
+      "Bewerberkontakt Firma": "Muster",
+      "Stelle aktiv bis (Publikationsende)": "Muster"
+    }
+{
+      "Id": 4,
+      "Bezeichnung der Stelle": "Muster (w/m/d)",
+      "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/muser.jpg",
+      "Bundesland": "Mecklenburg-Vorpommern.",
+      "Ort": "Muster",
+      "Anschreiben zur Stelle": "Muster",
+      "Abteilung": "Muster",
+      "Fachrichtung": "Muster",
+      "Straße": "Muster",
+      "Einsatzort": "Muster",
+      "Art der Stelle": "Muster",
+      "E-Mail": "Muster",
+      "Bewerberkontakt Firma": "Muster",
+      "Stelle aktiv bis (Publikationsende)": "Muster"
+    }
+{
+      "Id": 5,
+      "Bezeichnung der Stelle": "Muster (w/m/d)",
+      "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/muser.jpg",
+      "Bundesland": "Hamburg",
+      "Ort": "Muster",
+      "Anschreiben zur Stelle": "Muster",
+      "Abteilung": "Muster",
+      "Fachrichtung": "Muster",
+      "Straße": "Muster",
+      "Einsatzort": "Muster",
+      "Art der Stelle": "Muster",
+      "E-Mail": "Muster",
+      "Bewerberkontakt Firma": "Muster",
+      "Stelle aktiv bis (Publikationsende)": "Muster"
+    }
+{
+      "Id": 6,
+      "Bezeichnung der Stelle": "Muster (w/m/d)",
+      "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/muser.jpg",
+      "Bundesland": "Bremen",
+      "Ort": "Muster",
+      "Anschreiben zur Stelle": "Muster",
+      "Abteilung": "Muster",
+      "Fachrichtung": "Muster",
+      "Straße": "Muster",
+      "Einsatzort": "Muster",
+      "Art der Stelle": "Muster",
+      "E-Mail": "Muster",
+      "Bewerberkontakt Firma": "Muster",
+      "Stelle aktiv bis (Publikationsende)": "Muster"
+    }
+{
+      "Id": 7,
+      "Bezeichnung der Stelle": "Muster (w/m/d)",
+      "Logo": "https://raw.githubusercontent.com/dandaev/json/master/logos/muser.jpg",
+      "Bundesland": "Niedersachsen",
+      "Ort": "Muster",
+      "Anschreiben zur Stelle": "Muster",
+      "Abteilung": "Muster",
+      "Fachrichtung": "Muster",
+      "Straße": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam",
       "Einsatzort": "Muster",
       "Art der Stelle": "Muster",
       "E-Mail": "Muster",
