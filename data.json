@@ -1,56 +1,58 @@
-[
-  {
-    "Id": 0,
-    "Bezeichnung der Stelle": "Full Stack Developer (w/m/d)",
-    "Logo": "https://github.com/dandaev/json/blob/logos/xthumb.pagespeed.ic.NR3TIE8L2B.webp",
-    "Bundesland": [
-      "Sachsen","Bayern"
-    ],
-    "Ort": "04109",
-    "Anschreiben zur Stelle": "Eingebunden in ein interdisziplinäres, technisch breit aufgestelltes Team arbeiten Sie vornehmlich für renommierte Medien-, Automotive- oder Banking-Kunden. Mit uns leben Sie eine DevOps-Kultur, entwickeln anspruchsvolle Software und können sich in puncto Codequalität, Tests und agilen Prozessen voll verwirklichen. Sie kommunizieren offen und intensiv mit dem Team und dem Kunden und können dabei täglich die Brücke zwischen Kundenbedürfnissen und der Technik schlagen.",
-    "Abteilung": "IT & Telekommunikation,",
-    "Fachrichtung": "Informatik",
-    "Straße": "Klostergasse 3",
-    "Einsatzort": "Leipzig",
-    "Art der Stelle": "Vollzeit",
-    "E-Mail": "johanna.proehl@jambit.com",
-    "Bewerberkontakt Firma": "jambit GmbH",
-    "Stelle aktiv bis (Publikationsende)": "30.06.2021"
-  },
-  {
-    "Id": 1,
-    "Bezeichnung der Stelle": "Software Entwickler für Android Apps (m/w/d)",
-    "Logo": "https://github.com/dandaev/json/blob/logos/2peaches-fb-profil-180x180.png",
-    "Bundesland": [
-      "Sachsen"
-    ],
-    "Ort": "08468 ",
-    "Anschreiben zur Stelle": "Du kennst Android wie deine Westentasche? Mega! Dann bist du unser nächster Pfirsich!\n\nWas dich erwartet\n\nSpannende Projekte, die Millionen von Nutzern begeistern\nEntwicklung innovativer Apps für Android-Smartphones & -Tablets\nBeteiligung an Planung, Konzeption & Gestaltung\nAgile Softwareentwicklung & Test-Szenarien\nZusammenarbeit mit anderen Techniken und Plattformen, z.B. iOS, APIs, PHP\nVielfältige Aufgaben, neue Herausforderungen und frische Ideen\nWas wir von dir erwarten\n\nAbgeschlossene Ausbildung, Studium im Bereich der Informatik oder vergleichbare Qualifikationen\nErfahrung in der Entwicklung von nativen Android Apps mit Java / Kotlin\nKnowHow im Umgang mit Android Studio, Gradle, GIT & co.\nFähigkeit sich in vorhandenem Quellcode zurecht zu finden\nZuverlässigkeit, Genauigkeit und lösungsorientierte Arbeitsweise\nLernbereitschaft und Wissensdurst\nWas wir dir bieten\n\nSchneller und unkomplizierter Einstieg mit Lernfortschritt\nLockere Startup-Atmosphäre im jungen Team mit Du-Kultur\nHohe Flexibilität, Work-Life-Balance und 0-Überstunden-Mentalität\nKurze Entscheidungswege – Zusammenarbeit auf Augenhöhe\nModerne Entwicklungsumgebungen und neuste Technologien\nEin cooles Büro und die Möglichkeit auf remote Arbeit\nPersönliche Betreuung in der Einarbeitungsphase\nEine unbefristete Festanstellung oder als Werksstudent\nGute Karrierechancen für ambitionierte Mitarbeiter\nAttraktive und leistungsgerechte Bezahlung\nKaffeevollautomat mit Flatrate",
-    "Abteilung": "IT",
-    "Fachrichtung": "Physikalische Technik/Informatik",
-    "Straße": "Zwickauer Straße 52",
-    "Einsatzort": "Reichenbach",
-    "Art der Stelle": "Einstiegsposition/Trainee, Nebentätigkeit/Werkstudent:in, Praktikum, Professional",
-    "E-Mail": "jobs@2peaches.de",
-    "Bewerberkontakt Firma": "2peaches GmbH",
-    "Stelle aktiv bis (Publikationsende)": "31. Dezember 2021"
-  },
-  {
-    "Id": 2,
-    "Bezeichnung der Stelle": "Muster (w/m/d)",
-    "Logo": "https://github.com/dandaev/json/blob/logos/muser.jpg",
-    "Bundesland": [
-      "Sachsen","Bayern","Rheinland-Pfalz"
-    ],
-    "Ort": "Muster",
-    "Anschreiben zur Stelle": "Muster",
-    "Abteilung": "Muster",
-    "Fachrichtung": "Muster",
-    "Straße": "Muster",
-    "Einsatzort": "Muster",
-    "Art der Stelle": "Muster",
-    "E-Mail": "Muster",
-    "Bewerberkontakt Firma": "Muster",
-    "Stelle aktiv bis (Publikationsende)": "Muster"
-  }
-]
+{
+  "jobs": [
+    {
+      "Id": 0,
+      "Bezeichnung der Stelle": "Full Stack Developer (w/m/d)",
+      "Logo": "https://github.com/dandaev/json/blob/logos/xthumb.pagespeed.ic.NR3TIE8L2B.webp",
+      "Bundesland": [
+        "Sachsen","Bayern"
+      ],
+      "Ort": "04109",
+      "Anschreiben zur Stelle": "Eingebunden in ein interdisziplinäres, technisch breit aufgestelltes Team arbeiten Sie vornehmlich für renommierte Medien-, Automotive- oder Banking-Kunden. Mit uns leben Sie eine DevOps-Kultur, entwickeln anspruchsvolle Software und können sich in puncto Codequalität, Tests und agilen Prozessen voll verwirklichen. Sie kommunizieren offen und intensiv mit dem Team und dem Kunden und können dabei täglich die Brücke zwischen Kundenbedürfnissen und der Technik schlagen.",
+      "Abteilung": "IT & Telekommunikation,",
+      "Fachrichtung": "Informatik",
+      "Straße": "Klostergasse 3",
+      "Einsatzort": "Leipzig",
+      "Art der Stelle": "Vollzeit",
+      "E-Mail": "johanna.proehl@jambit.com",
+      "Bewerberkontakt Firma": "jambit GmbH",
+      "Stelle aktiv bis (Publikationsende)": "30.06.2021"
+    },
+    {
+      "Id": 1,
+      "Bezeichnung der Stelle": "Software Entwickler für Android Apps (m/w/d)",
+      "Logo": "https://github.com/dandaev/json/blob/logos/2peaches-fb-profil-180x180.png",
+      "Bundesland": [
+        "Sachsen"
+      ],
+      "Ort": "08468 ",
+      "Anschreiben zur Stelle": "Du kennst Android wie deine Westentasche? Mega! Dann bist du unser nächster Pfirsich!\n\nWas dich erwartet\n\nSpannende Projekte, die Millionen von Nutzern begeistern\nEntwicklung innovativer Apps für Android-Smartphones & -Tablets\nBeteiligung an Planung, Konzeption & Gestaltung\nAgile Softwareentwicklung & Test-Szenarien\nZusammenarbeit mit anderen Techniken und Plattformen, z.B. iOS, APIs, PHP\nVielfältige Aufgaben, neue Herausforderungen und frische Ideen\nWas wir von dir erwarten\n\nAbgeschlossene Ausbildung, Studium im Bereich der Informatik oder vergleichbare Qualifikationen\nErfahrung in der Entwicklung von nativen Android Apps mit Java / Kotlin\nKnowHow im Umgang mit Android Studio, Gradle, GIT & co.\nFähigkeit sich in vorhandenem Quellcode zurecht zu finden\nZuverlässigkeit, Genauigkeit und lösungsorientierte Arbeitsweise\nLernbereitschaft und Wissensdurst\nWas wir dir bieten\n\nSchneller und unkomplizierter Einstieg mit Lernfortschritt\nLockere Startup-Atmosphäre im jungen Team mit Du-Kultur\nHohe Flexibilität, Work-Life-Balance und 0-Überstunden-Mentalität\nKurze Entscheidungswege – Zusammenarbeit auf Augenhöhe\nModerne Entwicklungsumgebungen und neuste Technologien\nEin cooles Büro und die Möglichkeit auf remote Arbeit\nPersönliche Betreuung in der Einarbeitungsphase\nEine unbefristete Festanstellung oder als Werksstudent\nGute Karrierechancen für ambitionierte Mitarbeiter\nAttraktive und leistungsgerechte Bezahlung\nKaffeevollautomat mit Flatrate",
+      "Abteilung": "IT",
+      "Fachrichtung": "Physikalische Technik/Informatik",
+      "Straße": "Zwickauer Straße 52",
+      "Einsatzort": "Reichenbach",
+      "Art der Stelle": "Einstiegsposition/Trainee, Nebentätigkeit/Werkstudent:in, Praktikum, Professional",
+      "E-Mail": "jobs@2peaches.de",
+      "Bewerberkontakt Firma": "2peaches GmbH",
+      "Stelle aktiv bis (Publikationsende)": "31. Dezember 2021"
+    },
+    {
+      "Id": 2,
+      "Bezeichnung der Stelle": "Muster (w/m/d)",
+      "Logo": "https://github.com/dandaev/json/blob/logos/muser.jpg",
+      "Bundesland": [
+        "Sachsen","Bayern","Rheinland-Pfalz"
+      ],
+      "Ort": "Muster",
+      "Anschreiben zur Stelle": "Muster",
+      "Abteilung": "Muster",
+      "Fachrichtung": "Muster",
+      "Straße": "Muster",
+      "Einsatzort": "Muster",
+      "Art der Stelle": "Muster",
+      "E-Mail": "Muster",
+      "Bewerberkontakt Firma": "Muster",
+      "Stelle aktiv bis (Publikationsende)": "Muster"
+    }
+  ]
+}
